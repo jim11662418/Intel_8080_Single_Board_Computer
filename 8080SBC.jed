@@ -1,11 +1,11 @@
 
 CUPL(WM)        5.0a  Serial# 60008009
 Device          g16v8ma  Library DLIB-h-40-8
-Created         Mon Jul 17 05:51:39 2023
-Name            8085SBC
+Created         Tue Apr 14 05:05:06 2026
+Name            8080SBC
 Partno          
 Revision        
-Date            02/02/2021
+Date            10/03/2021
 Designer        Jim Loos
 Company         
 Assembly        
@@ -35,4 +35,4 @@ Location
 *L02144 11111111111111111111111111111111
 *L02176 111111111111111111
 *C4822
-*E31C
+*E30C
